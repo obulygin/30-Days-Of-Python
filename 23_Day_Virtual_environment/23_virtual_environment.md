@@ -15,7 +15,7 @@
 
 [<< День 22](../22_Day_Web_scraping/22_web_scraping.md) | [День 24 >>](../24_Day_Statistics/24_statistics.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 23](#-день-23)
   - [Установка виртуального окружения](#установка-виртуального-окружения)

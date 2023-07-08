@@ -16,7 +16,7 @@
 
 [<< День 13](../13_Day_List_comprehension/13_list_comprehension.md) | [День 15>>](../15_Day_Python_type_errors/15_python_type_errors.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 - [📘 День 14](#-день-14)
   - [Функции высшего порядка](#функции-высшего-порядка)
     - [Функция как параметр](#функция-как-параметр)

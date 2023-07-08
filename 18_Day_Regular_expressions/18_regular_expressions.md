@@ -16,7 +16,7 @@
 
 [<< День 17](../17_Day_Exception_handling/17_exception_handling.md) | [День 19>>](../19_Day_File_handling/19_file_handling.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 18](#-день-18)
   - [Регулярные выражения](#регулярные-выражения)

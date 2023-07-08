@@ -15,7 +15,7 @@
 
 [<< День 6](../06_Day_Tuples/06_tuples.md) | [День 8 >>](../08_Day_Dictionaries/08_dictionaries.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 7](#-день-7)
   - [Множества](#множества)

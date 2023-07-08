@@ -16,7 +16,7 @@
 
 [<< День 10](../10_Day_Loops/10_loops.md) | [День 12 >>](../12_Day_Modules/12_modules.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 11](#-день-11)
   - [Функции](#функции)

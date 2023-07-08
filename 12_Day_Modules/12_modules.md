@@ -17,7 +17,7 @@
 
 [<< День 11](../11_Day_Functions/11_functions.md) | [День 13>>](../13_Day_List_comprehension/13_list_comprehension.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 Day 12](#-day-12)
   - [Модули](#модули)

@@ -16,7 +16,7 @@
 
 [<< День 8](../08_Day_Dictionaries/08_dictionaries.md) | [День 10 >>](../10_Day_Loops/10_loops.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 9](#-день-9)
   - [Условные конструкции](#условные-конструкции)

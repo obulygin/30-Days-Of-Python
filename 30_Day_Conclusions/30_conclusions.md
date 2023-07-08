@@ -17,7 +17,7 @@
 </div>
 
 [<< День 29](../29_Day_Building_API/29_building_API.md)
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [День 30](#день-30)
   - [Выводы](#выводы)
