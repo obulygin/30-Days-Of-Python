@@ -16,7 +16,7 @@
 
 [<< День 5](../05_Day_Lists/05_lists.md) | [День 7 >>](../07_Day_Sets/07_sets.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [День 6:](#день-6)
   - [Кортежи](#кортежи)

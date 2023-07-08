@@ -14,7 +14,7 @@
 
 [<< День 18](../18_Day_Regular_expressions/18_regular_expressions.md) | [День 20 >>](../20_Day_Python_package_manager/20_python_package_manager.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 19](#-день-19)
   - [Работа с файлами](#работа-с-файлами)

@@ -16,7 +16,7 @@
 
 [<< День 20](../20_Day_Python_package_manager/20_python_package_manager.md) | [День 22 >>](../22_Day_Web_scraping/22_web_scraping.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 21](#-день-21)
   - [Классы и объекты](#классы-и-объекты)

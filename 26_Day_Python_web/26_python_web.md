@@ -16,7 +16,7 @@
 
 [<< День 25 ](../25_Day_Pandas/25_pandas.md) | [День 27 >>](../27_Day_Python_with_mongodb/27_python_with_mongodb.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 26](#день-26)
   - [Python для веб-разработки ](#python-для-веб-разработки)

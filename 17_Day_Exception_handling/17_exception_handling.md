@@ -15,7 +15,7 @@
 
 [<< День 16](../16_Day_Python_date_time/16_python_datetime.md) | [День 18 >>](../18_Day_Regular_expressions/18_regular_expressions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 - [📘 День 17](#-день-17)
   - [Обработка исключений](#обработка-исключений)
   - [Упаковка и распаковка аргументов в Python](#упаковка-и-распаковка-аргументов-в-python)

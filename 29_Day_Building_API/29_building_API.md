@@ -16,7 +16,7 @@
 
 [<< День 28](../28_Day_API/28_API.md) | [День 29 >>](../30_Day_Conclusions/30_conclusions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [День 29](#день-29)
 - [Разработка API](#разработка-api)

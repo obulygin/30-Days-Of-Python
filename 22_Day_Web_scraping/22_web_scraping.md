@@ -15,7 +15,7 @@
 
 [<< День 21](../21_Day_Classes_and_objects/21_classes_and_objects.md) | [День 23 >>](../23_Day_Virtual_environment/23_virtual_environment.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 22](#-день-22)
   - [Веб-скрапинг в Python](#веб-скрапинг-в-python)

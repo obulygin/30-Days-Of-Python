@@ -11,7 +11,7 @@
 
 [<< День 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [День 4 >>](../04_Day_Strings/04_strings.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 3](#-день-3)
  - [Булевые значения](#булевые-значения)

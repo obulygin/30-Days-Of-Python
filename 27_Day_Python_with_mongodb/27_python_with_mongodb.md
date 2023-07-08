@@ -16,7 +16,7 @@
 
 [<< День 26](../26_Day_Python_web/26_python_web.md) | [День 28 >>](../28_Day_API/28_API.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 27](#-день-27)
 - [Python и MongoDB](#python-и-mongodb)

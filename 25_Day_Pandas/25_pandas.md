@@ -16,7 +16,7 @@
 
 [<< День 24](../24_Day_Statistics/24_statistics.md) | [День 26 >>](../26_Day_Python_web/26_python_web.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 25](#день-25)
   - [Библиотека Pandas](#библиотека-pandas)

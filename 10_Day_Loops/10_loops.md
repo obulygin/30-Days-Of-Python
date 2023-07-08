@@ -15,7 +15,7 @@
 
 [<< День 9](../09_Day_Conditionals/09_conditionals.md) | [День 11 >>](../11_Day_Functions/11_functions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/30daysofpython.png)
 
 - [📘 День 10](#-день-10)
   - [Циклы](#циклы)
