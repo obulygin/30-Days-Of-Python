@@ -41,6 +41,10 @@
   <sub>Автор:
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
   </sub>
+  <br>
+  Контрибьюторы перевода<br>
+  <sub>Пчелкина Анастасия, начинающий переводчик (англ., исп.) и начинающий Python-разработчик: <a href="https://t.me/nastyaaa_p22" target="_blank">Telegram</a>.<br></sub>
+  <sub>Семен Клюев: <a href="https://t.me/Punchalaken" target="_blank">Telegram</a>, <a href="https://github.com/punchalaken" target="_blank">github</a>.<br></sub>
 </div>
 
 
