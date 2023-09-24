@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Python за 30 дней: День 1 - Знакомство с Python</h1>
+  <h1> Python за 30 дней: День 2 - Переменные, встроенные функции</h1>
   <a href="https://github.com/obulygin/30-Days-Of-Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=obulygin/30-Days-Of-Python" />
 </div>
