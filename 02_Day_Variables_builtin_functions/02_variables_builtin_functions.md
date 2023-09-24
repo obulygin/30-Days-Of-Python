@@ -1,12 +1,7 @@
 <div align="center">
   <h1> Python за 30 дней: День 1 - Знакомство с Python</h1>
-  <sub>Автор:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  </sub>
-  <br>
-  Контрибьюторы перевода<br>
-  <sub>Пчелкина Анастасия, начинающий переводчик (англ., исп.) и начинающий Python-разработчик: <a href="https://t.me/nastyaaa_p22" target="_blank">Telegram</a>.<br></sub>
-  <sub>Семен Клюев: <a href="https://t.me/Punchalaken" target="_blank">Telegram</a>, <a href="https://github.com/punchalaken" target="_blank">github</a>.<br></sub>
+  <a href="https://github.com/obulygin/30-Days-Of-Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=obulygin/30-Days-Of-Python" />
 </div>
 
 [<< День 1](../readme.md) | [День 3 >>](../03_Day_Operators/03_operators.md)

@@ -1,18 +1,7 @@
 <div align="center">
   <h1> 30 Дней Python: День 13 - List Comprehension</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Автор:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Второе издание: Июль, 2021</small>
-</sub>
-
-</div>
+  <a href="https://github.com/obulygin/30-Days-Of-Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=obulygin/30-Days-Of-Python" />
 </div>
 
 [<< День 12](../12_Day_Modules/12_modules.md) | [День 14>>](../14_Day_Higher_order_functions/14_higher_order_functions.md)

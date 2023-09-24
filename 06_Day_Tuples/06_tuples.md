@@ -1,17 +1,7 @@
 <div align="center">
   <h1> 30 Дней Python: День 6 - Кортежи</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Автор:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Второе издание: Июль, 2021</small>
-</sub>
-
+  <a href="https://github.com/obulygin/30-Days-Of-Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=obulygin/30-Days-Of-Python" />
 </div>
 
 [<< День 5](../05_Day_Lists/05_lists.md) | [День 7 >>](../07_Day_Sets/07_sets.md)

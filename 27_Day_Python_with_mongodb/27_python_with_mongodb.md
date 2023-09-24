@@ -1,17 +1,7 @@
 <div align="center">
   <h1> 30 дней Python: День 27 - Python и MongoDB </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> Second Edition: July, 2021</small>
-</sub>
-
+  <a href="https://github.com/obulygin/30-Days-Of-Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=obulygin/30-Days-Of-Python" />
 </div>
 
 [<< День 26](../26_Day_Python_web/26_python_web.md) | [День 28 >>](../28_Day_API/28_API.md)
