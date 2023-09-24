@@ -45,6 +45,10 @@
   Контрибьюторы перевода<br>
   <sub>Пчелкина Анастасия, начинающий переводчик (англ., исп.) и начинающий Python-разработчик: <a href="https://t.me/nastyaaa_p22" target="_blank">Telegram</a>.<br></sub>
   <sub>Семен Клюев: <a href="https://t.me/Punchalaken" target="_blank">Telegram</a>, <a href="https://github.com/punchalaken" target="_blank">github</a>.<br></sub>
+  <a href="https://github.com/obulygin/30-Days-Of-Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=obulygin/30-Days-Of-Python" />
+</a>
+
 </div>
 
 
